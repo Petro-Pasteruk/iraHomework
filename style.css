@@ -308,6 +308,13 @@ body {
 }
 
 /* I did page */
+.i-did {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
 .i-did .container {
 	display: flex;
 	flex-direction: column;
