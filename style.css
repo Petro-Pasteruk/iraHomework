@@ -328,11 +328,6 @@ body {
 	margin-bottom: 15px;
 }
 
-.i-did img {
-	max-width: 400px;
-	border-radius: 15px;
-}
-
 .i-did__link {
 	display: inline-block;
 	color: #fff;
@@ -595,9 +590,6 @@ body {
 }
 
 @media (max-width: 415px) {
-	.i-did img {
-		width: 70%;
-	}
 	.i-did__header {
 		font-size: 26px;
 	}
